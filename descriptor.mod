@@ -1,0 +1,16 @@
+version="1.17"
+tags={
+	"Alternative History"
+	"Gameplay"
+	"Map"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+	"Graphics"
+	"Ideologies"
+	"Military"
+	"Sound"
+}
+name="You, Me, and the Apocalypse"
+supported_version="1.17.5.2"
+path="C:/Users/booge/OneDrive/Desktop/Documents/Paradox Interactive/Hearts of Iron IV/mod/YMatA"
