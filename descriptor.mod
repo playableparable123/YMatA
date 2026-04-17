@@ -11,6 +11,17 @@ tags={
 	"Military"
 	"Sound"
 }
+replace_path="common/bookmarks"
+replace_path="common/countries"
+replace_path="common/country_tags"
+replace_path="history/countries"
+replace_path="history/states"
+replace_path="gfx"
+replace_path="map"
+replace_path="sound/menu"
+replace_path="localisation"
+replace_path="music"
+
 name="You, Me, and the Apocalypse"
 supported_version="1.17.5.2"
 path="C:/Users/booge/OneDrive/Desktop/Documents/Paradox Interactive/Hearts of Iron IV/mod/YMatA"
