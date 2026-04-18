@@ -1,0 +1,15 @@
+state={
+	id=22
+	name="Compton"
+	
+		history={
+		owner = CMP
+		}
+		
+	provinces={
+		5548
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

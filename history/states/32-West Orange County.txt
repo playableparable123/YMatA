@@ -1,0 +1,15 @@
+state={
+	id=32
+	name="West Orange County"
+	
+		history={
+		owner = ONG
+		}
+		
+	provinces={
+		8995 179 8991
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

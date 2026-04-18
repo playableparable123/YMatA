@@ -1,0 +1,53 @@
+l_english:
+  
+ SPH:0 "Spahn Ranch"
+ SPH_DEF:0 "Spahn"
+ SPH_ADJ:0 "Spahn"
+
+ APD:0 "LAPD"
+ APD_DEF:0 "LAPD"
+ APD_ADJ:0 "Los Angeles Police Department"
+
+ SCI:0 "Church of Scientology"
+ SCI_DEF:0 "Scientology"
+ SCI_ADJ:0 "Scientologist"
+
+ COM:0 "Committee of Vigilance"
+ COM_DEF:0 "Santa Monica"
+ COM_ADJ:0 "Santa Monican"
+
+ CRP:0 "Crips"
+ CRP_DEF:0 "Community Revolution"
+ CRP_ADJ:0 "Community Revolutionary"
+
+ BLD:0 "Bloods"
+ BLD_DEF:0 "West Coast Bloods"
+ BLD_ADJ:0 "Blood"
+
+ CMP:0 "City of Compton"
+ CMP_DEF:0 "Compton"
+ CMP_ADJ:0 "Comptonian"
+
+ LYN:0 "Lynwood Vikings"
+ LYN_DEF:0 "Lynwood"
+ LYN_ADJ:0 "Lynwoodian"
+
+ CNL:0 "Channel Island Raiders"
+ CNL_DEF:0 "Channel Islands"
+ CNL_ADJ:0 "Channel Islanders"
+
+ ADY:0 "Adytum"
+ ADY_DEF:0 "Town of Adytum"
+ ADY_ADJ:0 "Adytumian"
+
+ ANH:0 "DisneyLand"
+ ANH_DEF:0 "DisneyLand"
+ ANH_ADJ:0 "DisneyLander"
+
+ ONG:0 "Orange County"
+ ONG_DEF:0 "Orange County"
+ ONG_ADJ:0 "Oranger"
+
+ ASH:0 "Ashtar Command"
+ ASH_DEF:0 "Ashtar Command"
+ ASH_ADJ:0 "Ashtar Commandant"

@@ -1,5 +1,20 @@
 USA	= "countries/DC.txt"
 
+#Los Angeles
+SPH	= "countries/Spahn.txt"
+APD	= "countries/LAPD.txt"
+SCI	= "countries/Scientology.txt"
+COM	= "countries/CommitteeofVigilance.txt"
+CRP	= "countries/Crips.txt"
+BLD	= "countries/Bloods.txt"
+CMP	= "countries/Compton.txt"
+LYN	= "countries/Lynwood.txt"
+CNL	= "countries/Channel.txt"
+ADY	= "countries/Adytum.txt"
+ANH	= "countries/Anaheim.txt"
+ONG	= "countries/Orange.txt"
+ASH	= "countries/Ashtar.txt"
+
 ANA	= "countries/Anarchy.txt"
 
 

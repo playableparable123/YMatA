@@ -1,0 +1,15 @@
+state={
+	id=36
+	name="San Bernadino"
+	
+		history={
+		owner = ASH
+		}
+		
+	provinces={
+		6711 8935 6644
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

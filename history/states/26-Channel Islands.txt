@@ -1,0 +1,15 @@
+state={
+	id=26
+	name="Channel Islands"
+	
+		history={
+		owner = CNL
+		}
+		
+	provinces={
+		10398 10395 10396 10397
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

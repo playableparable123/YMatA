@@ -1,0 +1,15 @@
+state={
+	id=20
+	name="Scientology"
+	
+		history={
+		owner = SCI
+		}
+		
+	provinces={
+		13094
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

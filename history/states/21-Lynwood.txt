@@ -1,0 +1,15 @@
+state={
+	id=21
+	name="Lynwood"
+	
+		history={
+		owner = LYN
+		}
+		
+	provinces={
+		13095
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

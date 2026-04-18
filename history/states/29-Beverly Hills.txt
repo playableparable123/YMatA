@@ -1,0 +1,15 @@
+state={
+	id=29
+	name="Beverly Hills"
+	
+		history={
+		owner = APD
+		}
+		
+	provinces={
+		5848
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

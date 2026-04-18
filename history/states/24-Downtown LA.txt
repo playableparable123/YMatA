@@ -1,0 +1,15 @@
+state={
+	id=24
+	name="Donwtown LA"
+	
+		history={
+		owner = CRP
+		}
+		
+	provinces={
+		6737
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}
