@@ -1,12 +1,12 @@
 l_english:
   
  SPH:0 "Spahn Ranch"
- SPH_DEF:0 "Spahn"
+ SPH_DEF:0 "Spahn Ranch"
  SPH_ADJ:0 "Spahn"
 
  APD:0 "LAPD"
- APD_DEF:0 "LAPD"
- APD_ADJ:0 "Los Angeles Police Department"
+ APD_DEF:0 "Los Angeles Police Department"
+ APD_ADJ:0 "Police"
 
  SCI:0 "Church of Scientology"
  SCI_DEF:0 "Scientology"
@@ -17,11 +17,11 @@ l_english:
  COM_ADJ:0 "Santa Monican"
 
  CRP:0 "Crips"
- CRP_DEF:0 "Community Revolution"
- CRP_ADJ:0 "Community Revolutionary"
+ CRP_DEF:0 "Rollin' 60s Neighborhood Crips"
+ CRP_ADJ:0 "Crip"
 
  BLD:0 "Bloods"
- BLD_DEF:0 "West Coast Bloods"
+ BLD_DEF:0 "Cedar Block Pirus"
  BLD_ADJ:0 "Blood"
 
  CMP:0 "City of Compton"
@@ -50,4 +50,4 @@ l_english:
 
  ASH:0 "Ashtar Command"
  ASH_DEF:0 "Ashtar Command"
- ASH_ADJ:0 "Ashtar Commandant"
+ ASH_ADJ:0 "Ashtar"
